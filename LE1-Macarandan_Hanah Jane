@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    printf("+----------------------------------+\n");
+    printf("|                                  |\n");
+    printf("|       WELCOME TO MY WORLD        |\n");
+    printf("|                                  |\n");
+    printf("|         C PROGRAMMING 1          |\n");
+    printf("|                                  |\n");
+    printf("|       Hanah Jane Macarandan      |\n");
+    printf("|            BSIT - 1R5            |\n");
+    printf("|                                  |\n");
+    printf("+----------------------------------+\n");
+
+    return 0;
+}
